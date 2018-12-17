@@ -1,8 +1,8 @@
 year,sex,type_of_course,no_of_graduates
-1993,Males,Education,na
-1993,Males,Applied Arts,na
+1993,Males,Education,NA
+1993,Males,Applied Arts,NA
 1993,Males,Humanities & Social Sciences,481
-1993,Males,Mass Communication,na
+1993,Males,Mass Communication,NA
 1993,Males,Accountancy,295
 1993,Males,Business & Administration,282
 1993,Males,Law,92
@@ -13,11 +13,11 @@ year,sex,type_of_course,no_of_graduates
 1993,Males,Information Technology,264
 1993,Males,Architecture & Building,132
 1993,Males,Engineering Sciences,1496
-1993,Males,Services,na
-1993,Females,Education,na
-1993,Females,Applied Arts,na
+1993,Males,Services,NA
+1993,Females,Education,NA
+1993,Females,Applied Arts,NA
 1993,Females,Humanities & Social Sciences,1173
-1993,Females,Mass Communication,na
+1993,Females,Mass Communication,NA
 1993,Females,Accountancy,396
 1993,Females,Business & Administration,708
 1993,Females,Law,93
@@ -28,11 +28,11 @@ year,sex,type_of_course,no_of_graduates
 1993,Females,Information Technology,215
 1993,Females,Architecture & Building,144
 1993,Females,Engineering Sciences,254
-1993,Females,Services,na
-1994,Males,Education,na
-1994,Males,Applied Arts,na
+1993,Females,Services,NA
+1994,Males,Education,NA
+1994,Males,Applied Arts,NA
 1994,Males,Humanities & Social Sciences,512
-1994,Males,Mass Communication,na
+1994,Males,Mass Communication,NA
 1994,Males,Accountancy,271
 1994,Males,Business & Administration,413
 1994,Males,Law,87
@@ -43,11 +43,11 @@ year,sex,type_of_course,no_of_graduates
 1994,Males,Information Technology,294
 1994,Males,Architecture & Building,136
 1994,Males,Engineering Sciences,1666
-1994,Males,Services,na
-1994,Females,Education,na
-1994,Females,Applied Arts,na
+1994,Males,Services,NA
+1994,Females,Education,NA
+1994,Females,Applied Arts,NA
 1994,Females,Humanities & Social Sciences,1133
-1994,Females,Mass Communication,na
+1994,Females,Mass Communication,NA
 1994,Females,Accountancy,378
 1994,Females,Business & Administration,733
 1994,Females,Law,99
@@ -58,11 +58,11 @@ year,sex,type_of_course,no_of_graduates
 1994,Females,Information Technology,196
 1994,Females,Architecture & Building,182
 1994,Females,Engineering Sciences,227
-1994,Females,Services,na
+1994,Females,Services,NA
 1995,Males,Education,12
-1995,Males,Applied Arts,na
+1995,Males,Applied Arts,NA
 1995,Males,Humanities & Social Sciences,497
-1995,Males,Mass Communication,na
+1995,Males,Mass Communication,NA
 1995,Males,Accountancy,289
 1995,Males,Business & Administration,365
 1995,Males,Law,94
@@ -73,11 +73,11 @@ year,sex,type_of_course,no_of_graduates
 1995,Males,Information Technology,306
 1995,Males,Architecture & Building,140
 1995,Males,Engineering Sciences,1715
-1995,Males,Services,na
+1995,Males,Services,NA
 1995,Females,Education,101
-1995,Females,Applied Arts,na
+1995,Females,Applied Arts,NA
 1995,Females,Humanities & Social Sciences,1240
-1995,Females,Mass Communication,na
+1995,Females,Mass Communication,NA
 1995,Females,Accountancy,395
 1995,Females,Business & Administration,788
 1995,Females,Law,100
@@ -88,11 +88,11 @@ year,sex,type_of_course,no_of_graduates
 1995,Females,Information Technology,193
 1995,Females,Architecture & Building,156
 1995,Females,Engineering Sciences,276
-1995,Females,Services,na
+1995,Females,Services,NA
 1996,Males,Education,46
-1996,Males,Applied Arts,na
+1996,Males,Applied Arts,NA
 1996,Males,Humanities & Social Sciences,497
-1996,Males,Mass Communication,na
+1996,Males,Mass Communication,NA
 1996,Males,Accountancy,262
 1996,Males,Business & Administration,358
 1996,Males,Law,75
@@ -103,11 +103,11 @@ year,sex,type_of_course,no_of_graduates
 1996,Males,Information Technology,362
 1996,Males,Architecture & Building,142
 1996,Males,Engineering Sciences,1701
-1996,Males,Services,na
+1996,Males,Services,NA
 1996,Females,Education,199
-1996,Females,Applied Arts,na
+1996,Females,Applied Arts,NA
 1996,Females,Humanities & Social Sciences,1364
-1996,Females,Mass Communication,na
+1996,Females,Mass Communication,NA
 1996,Females,Accountancy,433
 1996,Females,Business & Administration,848
 1996,Females,Law,106
@@ -118,9 +118,9 @@ year,sex,type_of_course,no_of_graduates
 1996,Females,Information Technology,194
 1996,Females,Architecture & Building,136
 1996,Females,Engineering Sciences,250
-1996,Females,Services,na
+1996,Females,Services,NA
 1997,Males,Education,45
-1997,Males,Applied Arts,na
+1997,Males,Applied Arts,NA
 1997,Males,Humanities & Social Sciences,554
 1997,Males,Mass Communication,28
 1997,Males,Accountancy,227
@@ -133,9 +133,9 @@ year,sex,type_of_course,no_of_graduates
 1997,Males,Information Technology,370
 1997,Males,Architecture & Building,135
 1997,Males,Engineering Sciences,1806
-1997,Males,Services,na
+1997,Males,Services,NA
 1997,Females,Education,187
-1997,Females,Applied Arts,na
+1997,Females,Applied Arts,NA
 1997,Females,Humanities & Social Sciences,1367
 1997,Females,Mass Communication,67
 1997,Females,Accountancy,453
@@ -148,9 +148,9 @@ year,sex,type_of_course,no_of_graduates
 1997,Females,Information Technology,218
 1997,Females,Architecture & Building,163
 1997,Females,Engineering Sciences,333
-1997,Females,Services,na
+1997,Females,Services,NA
 1998,Males,Education,56
-1998,Males,Applied Arts,na
+1998,Males,Applied Arts,NA
 1998,Males,Humanities & Social Sciences,547
 1998,Males,Mass Communication,27
 1998,Males,Accountancy,264
@@ -163,9 +163,9 @@ year,sex,type_of_course,no_of_graduates
 1998,Males,Information Technology,377
 1998,Males,Architecture & Building,141
 1998,Males,Engineering Sciences,1952
-1998,Males,Services,na
+1998,Males,Services,NA
 1998,Females,Education,133
-1998,Females,Applied Arts,na
+1998,Females,Applied Arts,NA
 1998,Females,Humanities & Social Sciences,1547
 1998,Females,Mass Communication,74
 1998,Females,Accountancy,487
@@ -178,9 +178,9 @@ year,sex,type_of_course,no_of_graduates
 1998,Females,Information Technology,296
 1998,Females,Architecture & Building,153
 1998,Females,Engineering Sciences,413
-1998,Females,Services,na
+1998,Females,Services,NA
 1999,Males,Education,44
-1999,Males,Applied Arts,na
+1999,Males,Applied Arts,NA
 1999,Males,Humanities & Social Sciences,576
 1999,Males,Mass Communication,19
 1999,Males,Accountancy,297
@@ -193,9 +193,9 @@ year,sex,type_of_course,no_of_graduates
 1999,Males,Information Technology,355
 1999,Males,Architecture & Building,104
 1999,Males,Engineering Sciences,2200
-1999,Males,Services,na
+1999,Males,Services,NA
 1999,Females,Education,158
-1999,Females,Applied Arts,na
+1999,Females,Applied Arts,NA
 1999,Females,Humanities & Social Sciences,1492
 1999,Females,Mass Communication,93
 1999,Females,Accountancy,482
@@ -208,9 +208,9 @@ year,sex,type_of_course,no_of_graduates
 1999,Females,Information Technology,218
 1999,Females,Architecture & Building,167
 1999,Females,Engineering Sciences,492
-1999,Females,Services,na
+1999,Females,Services,NA
 2000,Males,Education,35
-2000,Males,Applied Arts,na
+2000,Males,Applied Arts,NA
 2000,Males,Humanities & Social Sciences,574
 2000,Males,Mass Communication,34
 2000,Males,Accountancy,250
@@ -223,9 +223,9 @@ year,sex,type_of_course,no_of_graduates
 2000,Males,Information Technology,348
 2000,Males,Architecture & Building,101
 2000,Males,Engineering Sciences,2267
-2000,Males,Services,na
+2000,Males,Services,NA
 2000,Females,Education,115
-2000,Females,Applied Arts,na
+2000,Females,Applied Arts,NA
 2000,Females,Humanities & Social Sciences,1452
 2000,Females,Mass Communication,80
 2000,Females,Accountancy,495
@@ -238,9 +238,9 @@ year,sex,type_of_course,no_of_graduates
 2000,Females,Information Technology,187
 2000,Females,Architecture & Building,192
 2000,Females,Engineering Sciences,682
-2000,Females,Services,na
+2000,Females,Services,NA
 2001,Males,Education,63
-2001,Males,Applied Arts,na
+2001,Males,Applied Arts,NA
 2001,Males,Humanities & Social Sciences,534
 2001,Males,Mass Communication,39
 2001,Males,Accountancy,257
@@ -253,9 +253,9 @@ year,sex,type_of_course,no_of_graduates
 2001,Males,Information Technology,249
 2001,Males,Architecture & Building,124
 2001,Males,Engineering Sciences,2517
-2001,Males,Services,na
+2001,Males,Services,NA
 2001,Females,Education,147
-2001,Females,Applied Arts,na
+2001,Females,Applied Arts,NA
 2001,Females,Humanities & Social Sciences,1520
 2001,Females,Mass Communication,77
 2001,Females,Accountancy,484
@@ -268,9 +268,9 @@ year,sex,type_of_course,no_of_graduates
 2001,Females,Information Technology,133
 2001,Females,Architecture & Building,199
 2001,Females,Engineering Sciences,803
-2001,Females,Services,na
+2001,Females,Services,NA
 2002,Males,Education,63
-2002,Males,Applied Arts,na
+2002,Males,Applied Arts,NA
 2002,Males,Humanities & Social Sciences,591
 2002,Males,Mass Communication,30
 2002,Males,Accountancy,226
@@ -283,9 +283,9 @@ year,sex,type_of_course,no_of_graduates
 2002,Males,Information Technology,365
 2002,Males,Architecture & Building,134
 2002,Males,Engineering Sciences,2617
-2002,Males,Services,na
+2002,Males,Services,NA
 2002,Females,Education,163
-2002,Females,Applied Arts,na
+2002,Females,Applied Arts,NA
 2002,Females,Humanities & Social Sciences,1609
 2002,Females,Mass Communication,91
 2002,Females,Accountancy,541
@@ -298,7 +298,7 @@ year,sex,type_of_course,no_of_graduates
 2002,Females,Information Technology,199
 2002,Females,Architecture & Building,224
 2002,Females,Engineering Sciences,880
-2002,Females,Services,na
+2002,Females,Services,NA
 2003,Males,Education,97
 2003,Males,Applied Arts,11
 2003,Males,Humanities & Social Sciences,456
@@ -313,7 +313,7 @@ year,sex,type_of_course,no_of_graduates
 2003,Males,Information Technology,377
 2003,Males,Architecture & Building,175
 2003,Males,Engineering Sciences,2948
-2003,Males,Services,na
+2003,Males,Services,NA
 2003,Females,Education,264
 2003,Females,Applied Arts,10
 2003,Females,Humanities & Social Sciences,1152
@@ -328,7 +328,7 @@ year,sex,type_of_course,no_of_graduates
 2003,Females,Information Technology,242
 2003,Females,Architecture & Building,235
 2003,Females,Engineering Sciences,1016
-2003,Females,Services,na
+2003,Females,Services,NA
 2004,Males,Education,76
 2004,Males,Applied Arts,11
 2004,Males,Humanities & Social Sciences,383
@@ -343,7 +343,7 @@ year,sex,type_of_course,no_of_graduates
 2004,Males,Information Technology,412
 2004,Males,Architecture & Building,137
 2004,Males,Engineering Sciences,3022
-2004,Males,Services,na
+2004,Males,Services,NA
 2004,Females,Education,336
 2004,Females,Applied Arts,14
 2004,Females,Humanities & Social Sciences,993
@@ -358,7 +358,7 @@ year,sex,type_of_course,no_of_graduates
 2004,Females,Information Technology,309
 2004,Females,Architecture & Building,185
 2004,Females,Engineering Sciences,1179
-2004,Females,Services,na
+2004,Females,Services,NA
 2005,Males,Education,86
 2005,Males,Applied Arts,11
 2005,Males,Humanities & Social Sciences,351
@@ -373,7 +373,7 @@ year,sex,type_of_course,no_of_graduates
 2005,Males,Information Technology,363
 2005,Males,Architecture & Building,138
 2005,Males,Engineering Sciences,2887
-2005,Males,Services,na
+2005,Males,Services,NA
 2005,Females,Education,278
 2005,Females,Applied Arts,11
 2005,Females,Humanities & Social Sciences,1027
@@ -388,7 +388,7 @@ year,sex,type_of_course,no_of_graduates
 2005,Females,Information Technology,199
 2005,Females,Architecture & Building,234
 2005,Females,Engineering Sciences,1241
-2005,Females,Services,na
+2005,Females,Services,NA
 2006,Males,Education,89
 2006,Males,Applied Arts,11
 2006,Males,Humanities & Social Sciences,412
@@ -403,7 +403,7 @@ year,sex,type_of_course,no_of_graduates
 2006,Males,Information Technology,319
 2006,Males,Architecture & Building,166
 2006,Males,Engineering Sciences,2934
-2006,Males,Services,na
+2006,Males,Services,NA
 2006,Females,Education,302
 2006,Females,Applied Arts,13
 2006,Females,Humanities & Social Sciences,1071
@@ -418,7 +418,7 @@ year,sex,type_of_course,no_of_graduates
 2006,Females,Information Technology,130
 2006,Females,Architecture & Building,214
 2006,Females,Engineering Sciences,1199
-2006,Females,Services,na
+2006,Females,Services,NA
 2007,Males,Education,73
 2007,Males,Applied Arts,28
 2007,Males,Humanities & Social Sciences,441
